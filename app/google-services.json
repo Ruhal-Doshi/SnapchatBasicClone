@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025724205641",
+    "firebase_url": "https://snap-basic-android-clone.firebaseio.com",
+    "project_id": "snap-basic-android-clone",
+    "storage_bucket": "snap-basic-android-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025724205641:android:27964ed7fd38d589dbcd98",
+        "android_client_info": {
+          "package_name": "com.example.snapchatbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025724205641-7aljqgrg76vtq9ok5ac5s0ulb6r0j99d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNTvkzWzul0a7y12Nc5jSxk-chxkoj5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025724205641-7aljqgrg76vtq9ok5ac5s0ulb6r0j99d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
